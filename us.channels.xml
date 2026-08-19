@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="24HourFreeMovies.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d">24 Hour Free Movies</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="3ABNEnglish.us@SD" site_id="10002">3ABN English</channel>
+  <channel site="mi.tv" lang="es" xmltv_id="3ABNLatino.us@SD" site_id="hn#3abn-latino">3ABN Latino</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="48Hours.us@US" site_id="Roku/all#e1df79771ae4850c0e48ecc6284065d0">48 Hours</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="50CentAction.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55">50 Cent Action</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="70sCinema.us@SD" site_id="PlutoTV/us#5f4d878d3d19b30007d2e782">70s Cinema</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="80sRewind.us@SD" site_id="PlutoTV/us#5ca525b650be2571e3943c63">80s Rewind</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="90sThrowback.us@SD" site_id="PlutoTV/us#5f4d86f519358a00072b978e">90s Throwback</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ABC.us@East" site_id="10003">ABC East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="ABC.us@West" site_id="abc--pacific/4407">ABC - Pacific</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ACCDigitalNetwork.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1">ACCDN</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ACCNetwork.us@SD" site_id="111871">ACC Network</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AE.us@East" site_id="10035">A&amp;amp;E East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ALLBLKGems.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-628bb0eafcb403aa62d2317d">ALLBLK Gems</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AMC.us@East" site_id="10021">AMC East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AMCenEspanol.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf">AMC en Español</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AMP2.us@SD" site_id="94852">AMP2</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AWE.us@SD" site_id="44895">AWE</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="AXSTV.us@SD" site_id="92053">AXS TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AcapulcoShore.us@US" site_id="PlutoTV/us#64dab1f835425100080e1e7b">Acapulco Shore</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AccuWeatherNOW.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01">AccuWeather NOW</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AfroLandTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c">AfroLandTV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlHorreyaTV.us@SD" site_id="1#33#Al Horreya TV">Al Horreya TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlMahdiTV.us@SD" site_id="1#33#Al Mahdi TV">Al Mahdi TV</channel>
+  <channel site="mi.tv" lang="es" xmltv_id="AlientoVision.us@SD" site_id="co#aliento-vision">Aliento Vision</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlkarmaTVPraise.us@SD" site_id="1#33#Alkarma Praise">Alkarma Praise</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AllRealitybyWEtv.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec">All Reality We TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AllWeddingsWEtv.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4">All Weddings We TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AlwaysFunnyVideos.us@SD" site_id="Roku/all#86c08261fc015a58866210bea63eb8f4">Always Funny Videos</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AmericasTestKitchen.us@SD" site_id="Roku/all#a96f9c338b3e5ab29ec3b436c01c84da">America&amp;apos;s Test Kitchen</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AmericasVoice.us@SD" site_id="Roku/all#d748045d77105901b8e25fcc34aa9e2f">America&amp;apos;s Voice</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AmericasVoiceNews.us@SD" site_id="PlutoTV/us#5e1f7da4bc7d740009831259">America&amp;apos;s Voice News</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AngerManagementChannel.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6303ca568a01b5d4dae57d0e">Anger Management</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AnimationPlus.us@SD" site_id="Plex/au#697140a85d851f5e69414688-674f6a6cf44561420465f9f3">Animation+</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AnimexHIDIVE.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf">ANIME x HIDIVE</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AntiquesRoadTrip.us@SD" site_id="Plex/au#697140a85d851f5e69414688-65d907f49c7a6da8c3ce57e9">Antiques Road Trip</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AntiquesRoadshowUK.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-630902bf0417b7074a4ad95c">Antiques Roadshow UK</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AreWeThereYet.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-612919784f53e1002c9aa219">Are We There Yet?</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AsianCrush.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5eea605474085f0040ddc767">AsianCrush</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="AtHomewithFamilyHandyman.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-632270e3e67cf9cd9011fce1">At Home with Family Handyman</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="AutenticHistory.de@SD" site_id="931186243466302968">Autentic History</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="AutenticTravel.de@SD" site_id="931186243466302967">Autentic Travel</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="BBCAmerica.us@East" site_id="18332">BBC America East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BBCEarth.uk@US" site_id="Plex/us#5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7">BBC Earth</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BBCFood.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e">BBC Food</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BBCHomeGarden.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb">BBC Home &amp;amp;amp; Garden</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BETPlutoTV.us@US" site_id="Roku/all#515d785b0a5ea55f15f7e4c773990009">BET Pluto TV</channel>
+  <channel site="mi.tv" lang="es" xmltv_id="BYUTV.us@SD" site_id="pe#byutv">BYUtv</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="BabyFirst.us@US" site_id="50338">BabyFirst TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BabySharkTV.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137">BABY SHARK TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Backstage.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-608aec5fa09205002da4f28f">Complex TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BarRescue.us@SD" site_id="PlutoTV/us#60a3d889a5b3690008dc7fe8">Bar Rescue</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Baywatch.us@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63e63f20abacad42ed3d1acf">Baywatch</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BellatorMMA.us@SD" site_id="Roku/all#963092a6c9489bdb5ec99e3c3ede8ad1">Bellator MMA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BestofDrPhil.us@SD" site_id="Roku/all#6d4ae9d9d0df5122a0811cff961b24b2">Best of Dr. Phil</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BeverlyHillbillies.us@US" site_id="PlutoTV/us#5f7796e470510900070d4e3d">Beverly Hillbillies</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="BigTenNetwork.us@SD" site_id="56783">Big Ten Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BilliardTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-6334a8e48a7b2a349d903b8c">Billiard TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BlackInkCrew.us@SD" site_id="PlutoTV/us#5d51e2bceca5b4b2c0e06c50">Black Ink Crew</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BlazeLive.us@SD" site_id="PlutoTV/us#5e46fba0c43b0d00096e5ac1">Blaze Live</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BloombergOriginals.us@SD" site_id="Flash/epg#quicktake">Bloomberg Originals</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="BloombergOriginals.us@US" site_id="530040610393425513">Bloomberg Originals</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BloombergTV.us@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6598baa010cb8b7793c6b3f8">Bloomberg TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BlueBloods.us@SD" site_id="PlutoTV/us#61b3b8c645b45d0007a9bb8d">Blue Bloods</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Bounce.us@SD" site_id="73067">Bounce</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BounceXL.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a">Bounce XL</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BratTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-63d6f6c5a9e88ee909e7ee1f">Brat TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Bravo.us@East" site_id="10057">Bravo East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="BritBoxMysteries.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-639a0b83812b6c1429f7acd1">BritBox Mysteries</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="BusinessRockstars.us@SD" site_id="42160">Business Rockstars</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Buzzr.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40">BUZZR</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CBS.us@East" site_id="10098">CBS East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNews247.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196">CBS News</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsBaltimore.us@SD" site_id="Roku/all#a3b212829dd85675bf997edc25a40a73">CBS News Baltimore</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsBayArea.us@SD" site_id="Roku/all#8a5a455185bb504694df6689035f6f14">CBS News Bay Area</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsBoston.us@SD" site_id="Roku/all#73a2f0c10aa1523dabb9d1e470425566">CBS News Boston</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsChicago.us@SD" site_id="Roku/all#8fec7a48bdc959d7b1a91d27e3ffbb0b">CBS News Chicago</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsColorado.us@SD" site_id="Roku/all#50e00e5cbec45dbfa5fcbd1f7122d19b">CBS News Colorado</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsDetroit.us@SD" site_id="Roku/all#4dae849c49ba5724bc485566e89fd46a">CBS News Detroit</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsLosAngeles.us@SD" site_id="Roku/all#e3fa9982ac3c555298eb72fcb3ffd8a4">CBS News Los Angeles</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsMiami.us@SD" site_id="Roku/all#b7fc60ea3d8d539d8ac0998e9c76b97c">CBS News Miami</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsMinnesota.us@SD" site_id="Roku/all#fa83022cd5f654938a558ec37b93d752">CBS News Minnesota</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsNewYork.us@SD" site_id="Roku/all#41d5a59655975c379aff0ea4c729313e">CBS News New York</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsPhilly.us@SD" site_id="Roku/all#78a1b45133495e54a0a1377b8e828789">CBS News Philadelphia</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsPittsburgh.us@SD" site_id="Roku/all#15e9b249ce4d508b88972380003f9032">CBS News Pittsburgh</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSNewsSacramento.us@SD" site_id="Roku/all#c3174023eb705f3d870d4ad2411de5f3">CBS News Sacramento</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSSportsGolazoNetwork.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd">CBS Sports Golazo Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CBSSportsHQ.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-657107dc56226238740fcc2d">CBS Sports HQ</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CMT.us@East" site_id="10138">CMT East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CMTEqualPlay.us@SD" site_id="PlutoTV/us#5f68f53eb1e5800007390bf8">CMT Equal Play</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CSI.us@SD" site_id="PlutoTV/us#5efbd29e4aa26700076c0d06">CSI</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CSIenespanol.us@SD" site_id="PlutoTV/us#604928d54a4f730007ff76bc">CSI en Español</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CW.us@East" site_id="51306">CW East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CampSpoopy.us@SD" site_id="Plex/au#697140a85d851f5e69414688-6164a963766ab4f9f57e81b1">Camp Spoopy</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CatholicFaithNetwork.us@SD" site_id="62900">Catholic Faith Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CelebrityNameGame.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e">Celebrity Name Game</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Charge.us@SD" site_id="102148">Charge!</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CheddarNews.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af">Cheddar</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Choppertown.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5ef11487d33ab9004048a1d3">Choppertown</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CineAdrenalina.us@SD" site_id="PlutoTV/us#5d8d164d92e97a5e107638d2">Cine adrenalina</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CineAmor.us@SD" site_id="PlutoTV/us#5f5136317aedfb0007016f93">Cine Amor</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CinePremiere.us@SD" site_id="PlutoTV/us#5cf968040ab7d8f181e6a68b">Cine Premiere</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CinePride.us@SD" site_id="Plex/au#697140a85d851f5e69414688-62167144ab2095ca85353ad6">CINEPRIDE</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CineRomantico.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-67db0a3892cb453db28ab020">Cine Romántico</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CineSony.us@SD" site_id="102978">Cine Sony</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CineTerror.us@US" site_id="PlutoTV/us#5d8d180092e97a5e107638d3">Cine terror</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Cinevault80s.us@SD" site_id="SamsungTVPlus/us#USAJ30000148W">CINEVAULT</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CinevaultWesterns.us@SD" site_id="Roku/all#7ef5e16ef5d95718b8e14b7bd657fa81">CINEVAULT: WESTERNS</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Circle.us@SD" site_id="Roku/all#f208a84047865b16820dd7110ec2e17f">Circle</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Clarity4K.us@SD" site_id="SamsungTVPlus/us#USBA3800005NI">Clarity 4K</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicMoviesChannel.us@SD" site_id="PlutoTV/us#561c5b0dada51f8004c4d855">Classic Movies Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicTVComedy.us@SD" site_id="PlutoTV/us#5f15e32b297f96000768f928">Classic TV Comedy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicTVDrama.us@SD" site_id="PlutoTV/us#5f15e3cccf49290007053c67">Classic TV Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ClassicTVFamilies.us@US" site_id="PlutoTV/us#61325d18f5166c00081b84e0">Classic TV: Families</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Classica.us@SD" site_id="PlutoTV/us#5f779951372da90007fd45e8">Classica</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ColdCaseFiles.us@SD" site_id="Roku/all#a3b243e7a1ea5ac99bb3e5560721d1f6">Cold Case Files</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ComedyCentral.us@East" site_id="10149">Comedy Central East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ComedyCentralPlutoTV.us@US" site_id="Roku/all#3d3f3113ff49ca22c3ad51ee00fe7e9d">Comedy Central Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ComedyCentralenEspanol.us@SD" site_id="PlutoTV/us#5cf96dad1652631e36d43320">Comedy Central en español</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ComedyDynamics.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76">Comedy Dynamics</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Comet.us@SD" site_id="97051">Comet</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ConcertChannel.us@SD" site_id="concert_channel">Canal Concert Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CookingPanda.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda">Cooking Panda</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Cops.us@SD" site_id="Plex/au#697140a85d851f5e69414688-626c1753ffda6789d20a452e">COPS</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CourtTV.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8">Court TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Create.us@SD" site_id="48990">Create</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Crime360.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41">A&amp;amp;amp;E Crime 360</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CrimePlusInvestigation.us@SD" site_id="9233003673">Crime &amp;amp; Investigation Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CrimenesImperfectos.us@SD" site_id="PlutoTV/us#5e94cd036cc69d0007e8a1ba">Crímenes imperfectos</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Crunchyroll.us@SD" site_id="Roku/all#307b3b9ea321539b9688148fc97a8bfd">Crunchyroll</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CuriosityNOW.de@EN" site_id="Plex/us#5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240">Curiosity NOW</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DangerTV.us@SD" site_id="Roku/all#447d63b6da208bb796b69f0383c474a1">Danger TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DarkMatterTV.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6">Dark Matter TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Dateline247.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5fc70600598c41002da3dd19">Dateline</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DaystarTV.us@SD" site_id="SkyGo/epg#sky.202">DAYSTAR</channel>
+  <channel site="watch.whaletvplus.com" lang="es" xmltv_id="DaystarTVEspanol.us@SD" site_id="999420644834214628">Daystar Español</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DePeliculaUS.us@SD" site_id="35401">De Pelicula</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DealorNoDeal.us@SD" site_id="Plex/au#697140a85d851f5e69414688-66855a2a714fe577eb7db920">Deal Or No Deal</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Degrassi.us@US" site_id="Plex/au#697140a85d851f5e69414688-636d5aa3dc2c550b145ed422">Degrassi</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DesignatedSurvivor.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-66aa9b7fd8fc59729226073e">Designated Survivor</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DisneyChannel.us@East" site_id="10171">Disney Channel East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DisneyJunior.us@East" site_id="74796">Disney Junior East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DisneyXD.us@East" site_id="18279">Disney XD East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DoctorWhoClassic.us@US" site_id="PlutoTV/us#5ce4475cd43850831ca91ce7">Doctor Who Classic</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DocumentaryPlus.us@US" site_id="Plex/us#5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723">Documentary+</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Docurama.us@SD" site_id="110479">Docurama</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="DogTV.us@SD" site_id="82446">Dog TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DogtheBountyHunter.us@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6729199a7f55143b23b66c4d">Dog the Bounty Hunter</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DontTellTheBride.uk@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-635847d0d3a668f1cafc1f9d">Don&amp;apos;t Tell The Bride</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DoveChannel.us@SD" site_id="Roku/all#d93912b4b21158fd95af2ceb8979c586">Dove</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DraftKingsNetwork.us@SD" site_id="Roku/all#5976983fa00953dab911a0ebea932943">DraftKings</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="DryBarComedyPlus.us@SD" site_id="SamsungTVPlus/us#USAJ30000039U">Dry Bar Comedy</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="DungeonTV.us@SD" site_id="42162">Dungeon TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="E.us@East" site_id="10989">E! East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EKeepingUp.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-645e328e3ea1d2d705ef8ab2">E! Keeping Up</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ESPNU.us@SD" site_id="45654">ESPNU</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="EWTN.us@English" site_id="10183">EWTN</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EbonyTVbyLionsgate.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6533de63bd43e1c8b1865152">Ebony TV by Lionsgate</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ElectricNow.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f170d61b898490041b49360">Electric Now</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EntertainmentTonight.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158">Entertainment Tonight</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EstrellaGames.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-64fb9149bb3e0baa5dcc0944">Estrella Games</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EstrellaNews.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b">Estrella News</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="EstrellaTV.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f">Estrella TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="F1Channel.ie@US" site_id="Plex/us#5e20b730f2f8d5003d739db7-6896595a58a6658b3d6a501a">F1 Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FIFAPlus.uk@UnitedStates" site_id="Plex/us#5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4">FIFA+</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FTFSports.us@SD" site_id="Plex/au#697140a85d851f5e69414688-605a309dc5acdc002c7a20aa">FTF Sports</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FX.us@East" site_id="14321">FX East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FXX.us@East" site_id="17927">FXX East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FailArmy.us@US" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791">FailArmy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FamilyTies.us@SD" site_id="Roku/all#a88da21b1c6ec86578d222626cc5cb05">Family Ties</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Farscape.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-635195e9ccee3e1547a8831a">Farscape</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FastTV.us@SD" site_id="PlutoTV/us#6400f731d200410008f9b339">Discovery Turbo TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FearFactor.us@US" site_id="Roku/all#8ab612dd8b845046b641f38c1412303d">Fear Factor</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FilmRiseAnime.us@SD" site_id="Plex/gb#64305451fc3be5947773c339-65ec577b07060fb76a3916bf">FilmRise Anime</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FilmRiseClassicTV.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874">FilmRise Classic TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FilmRiseForensicFiles.us@SD" site_id="Roku/all#62945e18ab825bfd8b4995d9bd14917b">FilmRise Forensic Files</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FilmRiseWestern.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05">FilmRise Western</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FlicksofFury.us@SD" site_id="PlutoTV/us#58e55b14ad8e9c364d55f717">Flicks of Fury</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ForensicFiles.us@SD" site_id="Plex/au#697140a85d851f5e69414688-68db6db222efe0c218a90a9d">Forensic Files</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ForeverKids.us@SD" site_id="PlutoTV/us#56171fafada51f8004c4b40f">Forever Kids</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Fox.us@East" site_id="10212">Fox East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Fox.us@West" site_id="fox--pacific/4409">FOX - Pacific</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FoxBusinessNetwork.us@SD" site_id="58649">Fox Business</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FoxDeportes.us@SD" site_id="15377">Fox Deportes</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FoxNewsChannel.us@SD" site_id="Foxtel/epg#FNC">FOX News</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FoxSoul.us@SD" site_id="Roku/all#bdf6b34e48585f588789f7e7857a84a6">FOX Soul</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us@HD" site_id="9233008440">FOX Sports 1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us@HD" site_id="9200009884">FOX Sports 2</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FoxWeather.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17">FOX Weather</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="FreeSpeechTV.us@SD" site_id="16220">Free Speech TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Freeform.us@East" site_id="10093">Freeform East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FrightFlix.us@SD" site_id="Plex/au#697140a85d851f5e69414688-621674502c2627c068e73ada">FrightFlix</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FuboSportsNetwork.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37">Fubo Sports Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FunnyAF.us@SD" site_id="PlutoTV/gb#65a6a5e90c7ff50008cb9815">Funny AF</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Fuse.us@East" site_id="14929">Fuse East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GalxyTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-621672e42c2627c068e73ad8">Galxy TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GameShowCentral.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782">Game Show Central</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="GameShowNetwork.us@East" site_id="14909">Game Show Network East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GarfieldandFriends.us@US" site_id="PlutoTV/us#60faf9ddfcc1f200070a5932">Garfield and Friends</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="GemShoppingNetwork.us@SD" site_id="26643">Gem Shopping Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GirlfriendsFilms.us@SD" site_id="PlutoTV/gb#66ba1e4446762a000855cd87">Girlfriends</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GoTraveler.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2">GoTraveler</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GoUSATV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60a9d105d162b9002d05a60c">GoUSA TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="GolfChannel.us@SD" site_id="61854">Golf Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GordonRamsaysHellsKitchen.us@SD" site_id="PlutoTV/us#5b4e99f4423e067bd6df6903">Gordon Ramsay&amp;apos;s Hell&amp;apos;s Kitchen</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GravitasMovies.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e">Gravitas Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GritXtra.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25">Grit Xtra</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="GrjngoWesternMovies.de@SD" site_id="Plex/au#697140a85d851f5e69414688-63489a771159f6a5ce819b7b">Grjngo - Western Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Gunsmoke.us@SD" site_id="PlutoTV/gb#68503d1736c9361b191e7d89">Gunsmoke</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HSN.us@East" site_id="Roku/all#0057bb20ce6c5717a5a025f2a73b682a">HSN</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HSN2.us@SD" site_id="10270">HSN2</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HallmarkChannel.us@East" site_id="11221">Hallmark Channel East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HallmarkMoviesMore.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514">Hallmark Movies &amp;amp;amp; More</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HappyDays.us@SD" site_id="PlutoTV/us#5f7794162a4559000781fc12">Happy Days</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HauntTV.ca@SD" site_id="Plex/gb#64305451fc3be5947773c339-682dfd3947a628d2f56948cc">HauntTV</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="Heartland.us@Eastern" site_id="150#99951494">Heartland</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Heartland.us@Web" site_id="Plex/us#5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806">Heartland</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HiYAH.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30">Hi-YAH!</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="History.us@East" site_id="57708">History East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HistoryHit.uk@SD" site_id="Plex/au#697140a85d851f5e69414688-5f74cf83ffbe690040689f50">History Hit</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HollyWire.us@SD" site_id="SamsungTVPlus/us#USBC2400015DO">Hollywire</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HomeMadeNation.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47">Home.Made.Nation</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Homeful.ca@US" site_id="Roku/all#9c7a717f25a15b9997c6e3fd5f43a1a6">Homeful</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="HopeChannelNorthAmerica.us@SD" site_id="49266">Hope Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="HumorMill.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5fd115b7b7ef8d002dcf1814">Humor Mill</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Hungry.us@SD" site_id="SamsungTVPlus/us#USAJ2200009C2">Hungry</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="IFC.us@East" site_id="14873">IFC East</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="INFAST.nl@SD" site_id="878085677857115004">INFAST</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="INWILD.nl@SD" site_id="910031136947176350">INWILD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="IONPlus.us@East" site_id="55241">ION Plus East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="IONTV.us@East" site_id="Plex/us#5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b">ION</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ImpactNetwork.us@SD" site_id="71798">Impact Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ImpossibleQuizShow.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6308fa9c0417b7074a4ad959">Impossible - Quiz Show</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="InkMaster.us@SD" site_id="Roku/all#65ae845b7372c0fb85142f6d88a56de7">Ink Master</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="IronChef.us@US" site_id="Plex/au#697140a85d851f5e69414688-6707cfa5da81682f2d1e6837">Iron Chef</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="JBS.us@SD" site_id="74978">JBS</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JerseyShore.us@SD" site_id="Roku/all#cfddaaa5800d4786e7bc1d51093bf098">Jersey Shore</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JewelryTV.us@SD" site_id="Roku/all#fb0f3c89533dc272a21e0488e2ca3fde">Jewelry Television</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="JewishLifeTelevision.us@SD" site_id="60165">Jewish Life Television</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JohnnyCarsonTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60d4edd6b2fdec002c141123">Johnny Carson TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Journy.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb">Journy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JudgeNosey.us@US" site_id="Roku/all#75ff2c061db65f4e812cfbe6b1480752">Judge Nosey</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="JustforLaughsGags.us@SD" site_id="Plex/au#697140a85d851f5e69414688-64704954e536e0faaf10be9f">Just For Laughs Gags</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KAAL61.us@HD" site_id="abc-kaal-austin-mn-hd/7869">ABC (KAAL) Austin, MN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KATC31.us@HD" site_id="abc-katc-lafayette-la-hd/5779">ABC (KATC) Lafayette, LA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KATU321.us@HD" site_id="abc-katu-portland-or-hd/3727">ABC (KATU) Portland, OR HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KBSI231.us@HD" site_id="fox-kbsi-cape-girardeau-mo-hd/6153">FOX (KBSI) Cape Girardeau, MO HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KCCI81.us@HD" site_id="cbs-kcci-des-moines-ia-hd/6377">CBS (KCCI) Des Moines, IA HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KCPQ131.us@HD" site_id="21254">FOX (KCPQ-DT1) Seattle WA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KCRATV581.us@HD" site_id="20451">NBC (KCRA) Sacramento, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KDBCTV41.us@HD" site_id="cbs-kdbc-el-paso-tx-hd/5196">CBS (KDBC) El Paso, TX HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KDFW41.us@HD" site_id="19616">FOX (KDFW-DT1) Dallas, TX</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KEROTV231.us@HD" site_id="34022">ABC (KERO) Bakersfield, CA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KETS21.us@HD" site_id="PBS/all#KETS">KETSDT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KEYETV421.us@HD" site_id="cbs-keye-austin-tx-hd/4831">CBS (KEYE) Austin, TX HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KFTRDT461.us@HD" site_id="53123">UniMás (KFTR) Ontario, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KGTV101.us@HD" site_id="20377">ABC (KGTV) San Diego, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KGUNTV91.us@HD" site_id="36184">ABC (KGUN-DT1) Tucson, AZ</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KHET111.us@HD" site_id="PBS/all#KHET">KHETDT</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KIROTV71.us@HD" site_id="Roku/all#eb1e409de3805062a285bd6945ea809e">KIRO 7 Seattle</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KITV41.us@HD" site_id="19590">ABC (KITV) Honolulu, HI</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KMEXDT341.us@HD" site_id="43048">UNI (KMEX) Los Angeles, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KMGHTV71.us@HD" site_id="20293">ABC (KMGH-DT1) Denver, CO</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KMOSTV61.us@HD" site_id="PBS/all#KMOS">KMOSDT</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KMPHTV261.us@HD" site_id="32699">FOX (KMPH) Fresno, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMSPDT1.us@SD" site_id="fox-kmsp-dt9-minneapolis-mn/1358">FOX (KMSP-DT9) Minneapolis, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KMTVTV31.us@HD" site_id="cbs-kmtv-omaha-ne-hd/6620">CBS (KMTV) Omaha, NE HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KNSD481.us@HD" site_id="21213">NBC (KNSD) San Diego, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KNTV111.us@HD" site_id="21785">NBC (KNTV) San Francisco, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KNXVTV611.us@HD" site_id="21210">ABC (KNXV-DT1) Arizona, PX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOATTV71.us@HD" site_id="abc-koat-albuquerque-nm-hd/5739">ABC (KOAT) Albuquerque, NM HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOBDT1.us@SD" site_id="nbc-kob-albuquerque-nm-hd/5108">NBC (KOB) Albuquerque, NM HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOKHTV251.us@HD" site_id="fox-kokh-oklahoma-city-ok-hd/8199">FOX (KOKH) Oklahoma City, OK HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KOKITV231.us@HD" site_id="fox-koki-tulsa-ok-hd/8151">ROAR (KOKI) Tulsa, OK HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KOMOTV511.us@HD" site_id="19629">ABC (KOMO-DT1) Seattle, WA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KQED92.us@HD" site_id="30507">PBS Plus (KQED2) San Jose, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KQSL81.us@HD" site_id="43736">KQSL-DT (KQSL-DT) Fort Bragg, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KRCA71.us@HD" site_id="35352">Estrella (KRCA) Los Angeles, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRGVTV51.us@HD" site_id="abc-krgv-weslaco-tx-hd/4688">ABC (KRGV) Weslaco, TX HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KRISTV61.us@HD" site_id="nbc-kris-corpus-christi-tx-hd/4750">NBC (KRIS) Corpus Christi, TX HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KRIV261.us@HD" site_id="21252">FOX (KRIV-DT1) Houston TX</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KSAZTV101.us@HD" site_id="21209">FOX (KSAZ-DT1) Arizona, PX</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KSBW81.us@HD" site_id="33383">NBC (KSBW) Monterey, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KSBY61.us@HD" site_id="31623">NBC (KSBY) Santa Barbara, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSHBTV411.us@HD" site_id="nbc-kshb-kansas-city-mo-hd/6625">NBC (KSHB) Kansas City, MO HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KSNV31.us@HD" site_id="nbc-ksnv-las-vegas-nv-hd/17245">NBC (KSNV) Las Vegas, NV HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KSTPTV51.us@HD" site_id="21236">ABC (KSTP-DT1) St Paul, MN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KTBC71.us@HD" site_id="fox-ktbc-austin-tx-hd/4827">FOX (KTBC) Austin, TX HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KTNVTV331.us@HD" site_id="30785">ABC (KTNV-DT1) Las Vegas, NV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KTTV111.us@HD" site_id="20450">FOX (KTTV) Los Angeles, CA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KTVU41.us@HD" site_id="19571">FOX (KTVU) San Francisco, CA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KUONTV121.us@HD" site_id="PBS/all#KUON">KUONDT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KUTV21.us@HD" site_id="cbs-kutv-salt-lake-city-ut-hd/4460">CBS (KUTV) Salt Lake City, UT HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KUVNDT491.us@HD" site_id="113569">Univision (KUVN-DT1) Dallas, TX</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="KVCRDT242.us@SD" site_id="59972">FNX (KVCR-DT2) San Bernardino, CA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KWTVDT91.us@HD" site_id="cbs-kwtv-oklahoma-city-ok-hd/8198">CBS (KWTV) Oklahoma City, OK HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KXASTV51.us@HD" site_id="Roku/all#9dfd5acd22f655768795c1f1bd731a53">NBC 5 Dallas-Fort Worth News</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KXXV251.us@HD" site_id="abc-kxxv-waco-tx-hd/5763">ABC (KXXV) Waco, TX HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="KZTV101.us@HD" site_id="cbs-kztv-corpus-christi-tx-hd/7064">CBS (KZTV) Corpus Christi, TX HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KartoonChannel.us@SD" site_id="PlutoTV/us#60fb040d4795a6000762fe8f">Kartoon Channel!</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="KetchupTV.us@SD" site_id="64257#16200">Ketchup TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KevinHartsLOLNetwork.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310">LOL! Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="KidsFlix.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797">KidsFlix</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LATV.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6685a97b59703916799193a5">LATV</channel>
+  <channel site="elcinema.com" lang="ar" xmltv_id="LBCInternational.lb@SD" site_id="1168">إل بي سي آي</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LEGOKidsTV.us@SD" site_id="PlutoTV/us#60fb01a24795a6000762fe83">LEGO Kids TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Laff.us@SD" site_id="92091">Laff</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LawCrime.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d">Law &amp;amp;amp; Crime</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="LifetimeMovies.us@East" site_id="18480">LMN East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LittleStarsUniverse.us@SD" site_id="PlutoTV/us#51c75f7bb6f26ba1cd00002f">Little Stars Universe</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LiveNOWfromFOX.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695">LiveNOW from FOX</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="LivingFaithTV.us@SD" site_id="58595">Living Faith TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Localish.us@SD" site_id="Roku/all#8b77c262c90652658b21fdb9ee292ab7">ABC Localish</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LogoPlutoTV.us@SD" site_id="PlutoTV/us#5ce5a8954311f992edbe1da2">Logo Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LoneStar.us@SD" site_id="Plex/au#697140a85d851f5e69414688-6196c9241d310bf925e02616">Lone Star</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LoveHipHop.us@SD" site_id="Roku/all#b8671587aa35a03aaab52b1891f15a87">Love &amp;amp;amp; Hip Hop</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LoveNatureenEspanol.us@SD" site_id="Roku/all#03a419fc4dff59b39b176d9f76b09e38">Love Nature Spanish</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LovePets.ca@US" site_id="Plex/us#5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3">Love Pets</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="LoveThePlanet.es@EN" site_id="999420644834214639">Love The Planet (EN)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="LuckyDog.us@SD" site_id="SamsungTVPlus/us#USBA3000044BJ">Lucky Dog</channel>
+  <channel site="shahid.mbc.net" lang="en" xmltv_id="MBC1USA.us@SD" site_id="816764">MBC1</channel>
+  <channel site="shahid.mbc.net" lang="en" xmltv_id="MBC3USA.us@SD" site_id="816771">MBC3</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MBCAmerica.us@SD" site_id="50270">MBC America</channel>
+  <channel site="shahid.mbc.net" lang="en" xmltv_id="MBCDramaUSA.us@SD" site_id="816781">MBC Drama</channel>
+  <channel site="shahid.mbc.net" lang="en" xmltv_id="MBCMasrUSA.us@SD" site_id="816776">MBC Masr</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MLB.us@SD" site_id="PlutoTV/us#5e66968a70f34c0007d050be">MLB</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MLBNetwork.us@SD" site_id="62079">MLB Network</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MLBStrikeZone.us@SD" site_id="80404">MLB Strike Zone</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MSG.us@SD" site_id="10979">MSG</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MSNOW.us@SD" site_id="Foxtel/epg#MSN">MS NOW</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MST3K.us@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddbb2fdec002c141133">MST3K</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MTV.us@East" site_id="10986">MTV East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MTV2.us@East" site_id="16361">MTV2 East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVBiggestPop.us@US" site_id="PlutoTV/us#5d14fd1a252d35decbc4080c">MTV Biggest Pop</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MTVLive.us@SD" site_id="49141">MTV Live</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVPlutoTV.us@US" site_id="Roku/all#7a406f20f6ad468f10f6b4752b30df56">MTV Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVSpankinNew.us@US" site_id="PlutoTV/us#5d14fdb8ca91eedee1633117">MTV Spankin&amp;apos; New</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MTVenEspanol.us@SD" site_id="Roku/all#e5475fb7b613a20f044be16a23fbcdaf">MTV en Español</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MadeInHollywood.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60db63d29ec966002c9ea6f0">Made In Hollywood</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MagellanTVNow.us@SD" site_id="SamsungTVPlus/us#USAJ340000677">MagellanTV Wildest</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Matlock.us@SD" site_id="PlutoTV/gb#6850426e53d981d1fdb0d966">Matlock</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MaverickBlackCinema.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430">Maverick Black Cinema</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MeTV.us@SD" site_id="MeTV/epg#metv">MeTV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MidnightPulp.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c4427">Midnight Pulp</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MidsomerMurders.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63d6fc71a9e88ee909e7ee23">Midsomer Murders</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MissionImpossible.us@SD" site_id="PlutoTV/gb#62ab579258cb950007811aad">Mission Impossible</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Misteriossinresolver.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-64d79408e5f67b0fab47ff24">Misterios sin Resolver</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MoreMax.us@East" site_id="10121">MoreMax East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MoreTVDrama.us@SD" site_id="PlutoTV/us#613260e4bdb71c00070d63fa">More TV Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MoreTVSitcoms.us@SD" site_id="PlutoTV/us#6132619f9ddaa50007e7dd86">More TV Sitcoms</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MovieSphere.us@US" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MrBeanAnimated.uk@English" site_id="Plex/au#697140a85d851f5e69414688-66a2e7fe94b6a49cb5054d7b">Mr. Bean</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="MyTimeMovieNetworkEast.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-644875d7af92c31f4a190bc2">MyTime Movie Network</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="MysteryScienceTheater3000.us@SD" site_id="113781">Mystery Science Theater 3000</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NBATV.us@SD" site_id="32281">NBA TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NBC.us@East" site_id="10991">NBC East</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="NBC.us@West" site_id="nbc--network-pacific/4410">NBC - Network Pacific</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCComedyVault.us@SD" site_id="Roku/all#4b631847108256fd8c77f6ba3bf3af03">NBC Comedy Vault</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCLX.us@SD" site_id="SamsungTVPlus/us#USBB40000028E">NBC LX Home</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCNewsNOW.us@SD" site_id="Foxtel/epg#NNN">NBC News NOW</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCSportsNOW.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43">NBC Sports NOW</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NBCSportsPhiladelphia.us@SD" site_id="17596">NBC Sports Philadelphia</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NBCUniverso.us@East" site_id="91588">NBC Universo East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NBCUniverso.us@West" site_id="91880">NBC Universo West</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NEWKMOVIES.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131">NEW K.MOVIES</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NEWKPOP.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d">NEW K-POP</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NFLChannel.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f">NFL Channel</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NFLNetwork.us@SD" site_id="102790">NFL Network</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NHLNetwork.us@SD" site_id="58570">NHL Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NHRATV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60aeb5cd87f9b1002ce12323">NHRA TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NRBTV.us@SD" site_id="49097">NRBTV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NTDTV.us@East" site_id="11253">NTD TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Naruto.us@US" site_id="PlutoTV/us#5da0c85bd2c9c10009370984">Naruto</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NashBridges.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6668b69889c051b3733f9b60">Nash Bridges</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NationalGeographic.us@East" site_id="49438">National Geographic East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Bronx.us@SD" site_id="18580">News12 Bronx</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Brooklyn.us@SD" site_id="46292">News12 Brooklyn</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Conneticut.us@SD" site_id="27512">News12 Conneticut</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12HudsonValley.us@SD" site_id="46640">News12 Hudson Valley</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12LongIsland.us@SD" site_id="10999">News12 Long Island</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12NewJersey.us@SD" site_id="16143">News12 New Jersey</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="News12NewYork.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5fc6f3a62b6f7b002e77ffaa">News 12 New York</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="News12Westchester.us@SD" site_id="12309">News12 Westchester</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Newsmax2.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335">Newsmax2</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NewsmaxTV.us@SD" site_id="SamsungTVPlus/us#USBA300028QU">NEWSMAX2</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Newsy.us@SD" site_id="96827">Newsy</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="NickJr.us@East" site_id="19211">Nick Jr East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NickJrPlutoTV.us@US" site_id="PlutoTV/us#5ca6748a37b88b269472dad9">Nick Jr. Pluto TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Nickelodeon.us@East" site_id="11006">Nickelodeon East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NickelodeonPlutoTV.us@SD" site_id="PlutoTV/us#5ca673e0d0bd6c2689c94ce3">Nickelodeon Pluto TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Nicktoons.us@East" site_id="30420">Nicktoons East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NinjaKidzTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-627ec46a92d8e6a705784bd1">Ninja Kidz TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Nosey.us@US" site_id="Plex/au#697140a85d851f5e69414688-5f0ff262d71dcb00449ec015">Nosey</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Novelisima.us@SD" site_id="Plex/au#697140a85d851f5e69414688-64d4e82ac5d4668c9cb7b5df">Novelisima</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="OANPlus.us@SD" site_id="Roku/all#e29e205ea1fb529f996ad862a2d6724e">OAN Plus</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="OnTV4U.us@SD" site_id="59576">OnTV4U</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="OneAmericaNewsNetwork.us@SD" site_id="82542">One America News Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="OutdoorChannel.us@HD" site_id="outdoor-channel-us-hd/4638">Outdoor Channel US HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="OutdoorChannel.us@SD" site_id="14776">Outdoor Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="OuterSphere.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a">OuterSphere by Lionsgate</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="OutsideTV.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-629e522ed1bc5f1b16c6b98d">Outside</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Overtime.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-62a388865440744efae8e243">Overtime</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Oxygen.us@East" site_id="21484">Oxygen East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBRRidePass.us@SD" site_id="PlutoTV/us#60d39387706fe50007fda8e8">PBR RidePass</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PBS.us@East" site_id="33453">PBS East (National Feed)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBSAntiquesRoadshow.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6348ac7090b96ef5e0eb3288">PBS Antiques Roadshow</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="PBSKids.us@SD" site_id="pbs-kids-247/31867">PBS KIDS 24/7</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PBSKidsEasternCentral.us@SD" site_id="101364">PBS Kids East (National Feed)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBSNature.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f">PBS Nature</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PBSTravel.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc">PBS Travel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PGATour.us@SD" site_id="Plex/au#697140a85d851f5e69414688-68017ed20268b77d02a5f4bd">PGA TOUR</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Pac12Insider.us@SD" site_id="Plex/au#697140a85d851f5e69414688-646c0dfbfb58444e4e1e262d">Pac-12 Insider</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ParamountMovieChannel.us@SD" site_id="Roku/all#e2855d7a70c960c11ab278e386f11921">Paramount Movie Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ParamountPlusPicks.us@SD" site_id="PlutoTV/us#5ff8c708653d080007361b14">Paramount+ Picks</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PeopleAreAwesome.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f0ff263d71dcb00449ec021">People are Awesome</channel>
+  <channel site="i.mjh.nz" lang="de" xmltv_id="PerryMason.us@SD" site_id="PlutoTV/de#64eddc3485efec00085b0369">Perry Mason</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PixLTV.us@SD" site_id="70113">PixL TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAction.us@US" site_id="PlutoTV/us#561d7d484dc7c8770484914a">Pluto TV Action</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAdventure.us@US" site_id="PlutoTV/us#69d7ebb726eeec84158e28cb">Pluto TV Adventure</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAnime.us@US" site_id="PlutoTV/us#5812b7d3249444e05d09cc49">Pluto TV Anime</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVAnimeMovies.us@SD" site_id="PlutoTV/us#67ed8f7e443f0671bc2b2368">Pluto TV Anime Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVBackcountry.us@SD" site_id="PlutoTV/us#5cabdf1437b88b26947346b2">Pluto TV Backcountry</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCars.us@SD" site_id="Roku/all#b7d49470ce09913c2cb9227708a815a2">Pluto TV Cars</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCineComedia.us@US" site_id="PlutoTV/us#5f513564e4622a0007c578c0">Cine comedia</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVComedy.us@US" site_id="PlutoTV/us#5a4d3a00ad95e4718ae8d8db">Pluto TV Comedy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCompetition.us@SD" site_id="PlutoTV/us#603fde9026ecbf0007752c2c">Pluto TV Competition</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCrimeDrama.us@SD" site_id="PlutoTV/us#5f31fd1b4c510e00071c3103">Pluto TV Crime Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCrimeMovies.us@SD" site_id="PlutoTV/us#5f4d8594eb979c0007706de7">Pluto TV Crime Movies</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVCultFilms.us@US" site_id="PlutoTV/us#5c665db3e6c01b72c4977bc2">Pluto TV Cult Films</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVDrama.us@US" site_id="PlutoTV/us#5b4e92e4694c027be6ecece1">Pluto TV Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVElReinoInfantil.us@SD" site_id="PlutoTV/us#66fedd65d7de140008dccd66">El Reino Infantil</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVFantastic.us@SD" site_id="Roku/all#9d21287eff4c09a5d1078558e8245cfb">Pluto TV Fantastic</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVGameShows.us@SD" site_id="PlutoTV/us#6036e7c385749f00075dbd3b">Pluto TV Game Shows</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVHistory.us@US" site_id="PlutoTV/us#5a4d35dfa5c02e717a234f86">Pluto TV History</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVHometownDrama.us@SD" site_id="PlutoTV/us#69d6c7befde57cd5ba0160c3">Pluto TV Hometown Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVHorror.us@US" site_id="PlutoTV/us#569546031a619b8f07ce6e25">Pluto TV Horror</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVIcons.us@SD" site_id="PlutoTV/us#64b585f84ea480000838e446">Pluto TV Icons</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVLives.us@US" site_id="PlutoTV/us#5d8beeb39b5d5d5f8c672530">Pluto TV Lives</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVMilitary.us@SD" site_id="PlutoTV/us#5bb3fea0f711fd76340eebff">Pluto TV Military</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVNovelas.us@US" site_id="PlutoTV/us#5cf96c0222df39f1a338d163">Pluto TV Novelas</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVParanormal.us@US" site_id="PlutoTV/us#5adf96e3e738977e2c31cb04">Pluto TV Paranormal</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVPokemon.us@US" site_id="PlutoTV/us#6675c7868768aa0008d7f1c7">Pokémon</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVReaction.us@SD" site_id="PlutoTV/us#617b37b361e0fd0008cfd8c5">Pluto TV Reaction</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVReality.us@US" site_id="PlutoTV/us#5d8bf0b06d2d855ee15115e3">Pluto TV Reality</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVRomance.us@US" site_id="PlutoTV/us#5a66795ef91fef2c7031c599">Pluto TV Romance</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVSciFi.us@US" site_id="PlutoTV/us#5b4fc274694c027be6ed3eea">Pluto TV Sci-Fi</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVScience.us@US" site_id="PlutoTV/us#563a970aa1a1f7fe7c9daad7">Pluto TV Science</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVSpotlight.us@SD" site_id="PlutoTV/us#5ba3fb9c4b078e0f37ad34e8">Pluto TV Spotlight</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVStaffPicks.us@SD" site_id="PlutoTV/us#5f4d863b98b41000076cd061">Pluto TV Staff Picks</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTerror.us@SD" site_id="PlutoTV/us#5c6dc88fcd232425a6e0f06e">Pluto TV Terror</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTheTwilightZone.us@SD" site_id="PlutoTV/us#67352ed93a61d4000881f9fa">The Twilight Zone</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVThrillers.us@US" site_id="PlutoTV/us#5b4e69e08291147bd04a9fd7">Pluto TV Thrillers</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTrendingNow.us@SD" site_id="PlutoTV/us#673247127d5da5000817b4d6">Pluto TV Trending Now</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVTrueCrime.us@US" site_id="PlutoTV/us#5812be1c249444e05d09cc50">Pluto TV True Crime</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PlutoTVWesterns.us@US" site_id="SamsungTVPlus/us#USBA300005MK">Pluto TV Westerns</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PokerGo.us@US" site_id="PlutoTV/us#5fc54366b04b2300072e31af">PokerGO</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Portlandia.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-61d735fea7b7c7f703418512">Portlandia</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PositivTV.us@SD" site_id="34169">Positiv TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PowerNationTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-69814bbff871095eafc65925">Powernation</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="PursuitChannel.us@SD" site_id="60111">Pursuit Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="PursuitUP.us@SD" site_id="Plex/au#697140a85d851f5e69414688-63628eb88e4b18ca22f897dc">PursuitUP</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="QVC.us@SD" site_id="Roku/all#015c83c4485a597d9e2132252e2a75ae">QVC</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="QVC2.us@SD" site_id="Roku/all#9cb058af15a0fdacf5aa87b78b2e3d33">QVC2</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="QVC3.us@SD" site_id="101260">QVC3</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="RFDTV.us@SD" site_id="25148">RFD-TV</channel>
+  <channel site="cableplus.com.uy" lang="es" xmltv_id="RTenEspanol.ru@SD" site_id="1502">RT TV</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="RVTV.us@HD" site_id="144407">RVTV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RainbowRuby.us@SD" site_id="Roku/all#85f1333ff9065bf2923c8fa5eee50036">Rainbow Ruby</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RealAmericasVoice.us@SD" site_id="SamsungTVPlus/us#USBB1900002KF">Real America&amp;apos;s Voice</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RealWild.uk@SD" site_id="Plex/au#697140a85d851f5e69414688-63584a0cf8e2be1350f802a4">Real Wild</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RedBullTV.at@US" site_id="Roku/all#c5e8a74546771de365652cd053f73351">Red Bull TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Reelz.us@SD" site_id="52199">Reelz</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RetroCrush.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a">RetroCrush</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RevandRoll.us@SD" site_id="Roku/all#f1584888a8625b1abf77aecb4690abe0">Rev and Roll</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Revolt.us@SD" site_id="83097">Revolt</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Revry.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5ef11487d33ab9004048a1d9">Revry</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RevryLatinX.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-68c87052da79d98d977dc90e">Revry Latinx</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RiffTrax.us@US" site_id="SamsungTVPlus/us#USAJ3504706A">RiffTrax</channel>
+  <channel site="i.mjh.nz" lang="es" xmltv_id="Runtime.us@SD" site_id="Plex/es#643054b1fc3be59477853717-66840253cd6f1d394094114f">Runtime</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RuntimeEspanol.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15">Runtime Español</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="RyanandFriends.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f91c4ea96a391002df9a664">Ryan and Friends</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="SBNTV.us@SD" site_id="67676">SonLife Broadcasting Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SNLVault.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34">SNL Vault</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SamsungWildlife.us@SD" site_id="SamsungTVPlus/us#USBA3000043LH">Samsung Wild Life</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="SchwabNetwork.us@SD" site_id="36454">Schwab Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ScrippsNews.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211">Scripps News</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="SemillitasTV.us@SD" site_id="semillitas">Canal Semillitas</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ShemarooBollywood.us@SD" site_id="Plex/au#697140a85d851f5e69414688-62d1a58e520656fda09e609d">Shemaroo Bollywood</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ShopLC.us@SD" site_id="56032">Shop LC</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ShoutFactoryTV.us@SD" site_id="111132">Shout Factory TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Showtime.us@East" site_id="11115">Showtime East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Showtime.us@West" site_id="11117">Showtime West</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Showtime2.us@East" site_id="11116">Showtime 2 East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ShowtimeExtreme.us@East" site_id="18086">Showtime Extreme East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ShowtimeFamilyZone.us@East" site_id="25274">Showtime Family Zone East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="ShowtimeNext.us@East" site_id="25270">Showtime Next East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SlopesTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-616df1be2cf008a748c8cb53">SLOPES</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="SmartLifeStyleTV.us@SD" site_id="88293">Smart LifeStyle TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SmithsonianChannelSelects.us@SD" site_id="Roku/all#c1737248a0579987190aa79d4d87dab9">Smithsonian Channel Selects</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SonicTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-62ba4aaff663580a7238f327">Sonic TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SonyCanalNovelas.us@SD" site_id="SamsungTVPlus/us#USAJ3000002OC">Dramon</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SpikeOutdoors.us@SD" site_id="PlutoTV/us#5c393cad2de254456f7ef8c2">Spike Outdoors</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SpikePlutoTV.us@SD" site_id="PlutoTV/us#5812bcc8237a6ff45d16c407">Spike Pluto TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SportsGrid.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5ef11485d33ab9004048a1ca">SportsGrid</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Stadium.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92">Stadium</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="StarTrek.us@US" site_id="PlutoTV/us#5efbd39f8c4ce900075d7698">Star Trek</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Starz.us@East" site_id="12719">Starz East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="StarzCinema.us@East" site_id="19634">Starz Cinema East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="StarzComedy.us@East" site_id="34901">Starz Comedy East</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="StarzKidsFamily.us@East" site_id="50671">Starz Kids &amp;amp; Family East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="StingrayGreatestHolidayHits.us@SD" site_id="Plex/au#697140a85d851f5e69414688-61aa97d4113e1e5137fd5325">Stingray Greatest Hits</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="StoriesbyAMC.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba">Stories by AMC</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SuperSimpleSongs.us@SD" site_id="Roku/all#9aff620ece2457a3a7572886ecae0495">Super Simple Songs</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Survivor.us@SD" site_id="Roku/all#38f074c80d4c0a6208a8c50257f41d0f">Survivor</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="SwerveSports.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902">Swerve Combat</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TBN.us@East" site_id="14767">TBN East</channel>
+  <channel site="epg.iptvx.one" lang="ru" xmltv_id="TBNArmenia.us@SD" site_id="tbn-armenia">TBN Armenia</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TBNInspire.us@SD" site_id="122276">TBN Inspire</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TED.us@SD" site_id="Plex/au#697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487">TED</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TGJunior.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8">TG Junior</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TMZ.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-63e2ca44203bafbef831a152">TMZ</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TODAYAllDay.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd39">TODAY All Day</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TUDN.us@SD" site_id="77033">TUDN</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TVEInternacionalAmerica.es@SD" site_id="33227">TVE Internacional América</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TVLandDrama.us@SD" site_id="Roku/all#df060784c402175739d219b5952838ca">TV Land Drama</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TVLandSitcoms.us@SD" site_id="Roku/all#e287c5c667c39fa5025b362a93ea09b1">TV Land Sitcoms</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSBoxing.us@SD" site_id="786">TVS Boxing Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSCipherNetwork.us@SD" site_id="843">TVS Cipher Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSClassicMovies.us@SD" site_id="820">TVS Classic Movies</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSClassicSports.us@SD" site_id="735">TVS Classic Sports</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSComedyNetwork.us@SD" site_id="829">TVS Comedy</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSDriveInMovie.us@SD" site_id="819">TVS Drive In Movie</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSFilmNoirNetwork.us@SD" site_id="842">TVS Film Noir Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSHiTops.us@SD" site_id="816">TVS Hi Tops</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSHollywoodHistory.us@SD" site_id="823">TVS Hollywood History</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSMainstreet.us@SD" site_id="799">TVS Main Street</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSNostalgia.us@SD" site_id="797">TVS Nostalgia</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSNostalgiaMovies.us@SD" site_id="822">TVS Nostalgia Movie Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSPinballNetwork.us@SD" site_id="837">TVS Pinball Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSQuizShowNetwork.us@SD" site_id="830">TVS Quiz Show Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSSelectNetwork.us@SD" site_id="827">TVS Select Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTallyHo.us@SD" site_id="826">TVS Tally Ho</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTavern.us@SD" site_id="795">TVS Tavern TV</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTurbo.us@SD" site_id="793">TVS Turbo Network</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSWesternMovie.us@SD" site_id="821">TVS Western Movie</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSWomenSports.us@SD" site_id="798">TVS Women&amp;apos;s Sports Network</channel>
+  <channel site="taiwanplus.com" lang="en" xmltv_id="TaiwanPlusTV.tw@SD" site_id="#">TaiwanPlus TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Tastemade.us@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757">Tastemade</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TastemadeTravel.us@SD" site_id="Roku/all#95a0b94ff13a4dc14fea6e9eb47ecf09">Tastemade Travel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TeenMom.us@SD" site_id="Roku/all#dfb455b2d34724456821fe18f2b6b284">Teen Mom</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TeenNick.us@East" site_id="59036">TeenNick</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Telemundo.us@East" site_id="73245">Telemundo East (National Feed)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Telemundo.us@West" site_id="17983">Telemundo West (National Feed)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TelemundoAlDia.us@HD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6478acb5c83f56da796f166f">Telemundo al Dia</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TelemundoTelenovelasClasicas.us@SD" site_id="PlutoTV/us#5cf96cc422df39f1a338d165">Telemundo telenovelas clásicas</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TennisChannel.us@Plus2" site_id="Plex/us#5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18">Tennis Channel 2</channel>
+  <channel site="i.mjh.nz" lang="de" xmltv_id="TennisChannel.us@SD" site_id="PlutoTV/de#6870c9333ffa5e0c914e9205">Tennis Channel</channel>
+  <channel site="watch.whaletvplus.com" lang="en" xmltv_id="TerraMaterWILD.de@English" site_id="931186243466302960">Terra Mater Wild (EN)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAddamsFamily.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-689fb7110a486aeba3c7917c">The Addams Family</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAmazingRace.us@SD" site_id="Roku/all#1b4a3b14ce19baa18082c2cb7e0fb086">The Amazing Race</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAndyGriffithShow.us@SD" site_id="PlutoTV/us#60f75178e7f8aa0007e9c259">The Andy Griffith Show</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheAsylum.us@US" site_id="Roku/all#7e202ec14b17515a8e732f662aec155d">The Asylum</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheBobRossChannel.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88">The Bob Ross Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheCarolBurnettShow.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60d4edd6b2fdec002c141125">The Carol Burnett Show</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheChallenge.us@SD" site_id="Roku/all#e64d0ca363b1e9e5475da2559a97f6b5">The Challenge</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheConners.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6668b7a5e4f56766e556a415">The Conners</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TheCountryNetwork.us@SD" site_id="69639">The Country Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheDesignNetwork.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f0641d3e8ffda004033b16e">The Design Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheFirstTV.us@SD" site_id="PlutoTV/us#5d486acc34ceb37d3c458a64">The First</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheGrahamNortonShow.uk@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68dcbb869beaa3a402966dba">The Graham Norton Show</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheHillTV.us@SD" site_id="Roku/all#8bfd3a488b59590eb2fa5602c2120168">The Hill</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheJamieOliverChannel.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-64b7170c4612b1f48e9ad31e">The Jamie Oliver Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheJudgeJudyChannel.us@SD" site_id="Roku/all#e0c3a43132e99f2188f63d4b3d95b9ac">The Judge Judy Channel</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheLoveBoat.us@SD" site_id="PlutoTV/us#5f7794a788d29000079d2f07">The Love Boat</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TheNest.us@SD" site_id="the-nest/14118">The Nest</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheNewDetectives.us@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-67cbd471cc5136329877e098">The New Detectives</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThePetCollective.us@US" site_id="Roku/all#69791edb54d953268aa8933e2cb29a32">Pet Collective</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThePriceIsRight.us@HD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63e63d26abacad42ed3d1acd">The Price is Right</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThePriceIsRightTheBarkerEra.us@SD" site_id="Roku/all#4ad47ace83b25065955adca3f8e9bdcf">The Price Is Right: The Barker Era</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheRifleman.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-64f123008d44f2871135a905">The Rifleman</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheWalkingDeadUniverse.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce">The Walking Dead Universe</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TheWalkingDeadenEspanol.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6848269efd17cd629e5df2ea">The Walking Dead Espanol</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TheWordNetwork.us@SD" site_id="21781">The Word Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThisOldHouse.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-62e3232ca105dea9c400e9fe">This Old House</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ThreesCompany.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-66a2dcfa0b91165254efdb42">Three&amp;apos;s Company</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TinyHouseNation.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-671bedfa128bc4121f80aeec">Tiny House Nation</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="ToonGoggles.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5eea605574085f0040ddc794">Toon Goggles</channel>
+  <channel site="toonamiaftermath.com" lang="en" xmltv_id="ToonamiAftermath.us@East" site_id="Toonami Aftermath EST">Toonami Aftermath East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Tosh0.us@SD" site_id="Roku/all#ed811bdcdfe56064a07e8f457af3b84a">Tosh.0</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TotallyTurtles.us@US" site_id="PlutoTV/gb#656ef4af4261ca00083c8f37">Totally Turtles</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TribecaChannel.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60ede94f7da2ef002c55ce9b">Tribeca Channel</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="TrueCrimeNetwork.us@SD" site_id="91496">True Crime Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TrueCrimeNow.us@SD" site_id="Plex/au#697140a85d851f5e69414688-64e43cfe200cd2f67473e0d6">True Crime Now</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="TrueHistory.us@SD" site_id="Plex/au#697140a85d851f5e69414688-614398a08f30fa61e0da7c97">True History</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="USANetwork.us@East" site_id="11207">USA Network East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="USATODAY.us@SD" site_id="Flash/epg#usa-today">USA Today</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Unbeaten.us@SD" site_id="Plex/au#697140a85d851f5e69414688-67f45ef989089d917e1b1634">Unbeaten</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Unidentified.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f">Unidentified</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="UniversalComedy.us@SD" site_id="universal_comedy">Canal Universal Comedy</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="UniversalCrime.us@East" site_id="Roku/all#0322f5b9c0d954169122de194a8005ac">Universal Crime</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Univision.us@East" site_id="68049">Univision East (National Feed)</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="UnivisionTlnovelas.us@SD" site_id="74550">Univision Tlnovelas</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="UnsolvedMysteries.us@US" site_id="Roku/all#4ecf313b40975382b983c183bf7d86f0">Unsolved Mysteries</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VICETV.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-62c47062085f5c338b9c6360">VICE</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="VSiN.us@SD" site_id="108970">VSiN</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VenevisionInternacional.ve@SD" site_id="Roku/all#cc04d77fd589a818cd036c850b6be867">Venevisión Internacional</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo2K.us@SD" site_id="Roku/all#94759dbd58a65682bcc573932f725f46">Vevo 2K</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo70s.us@SD" site_id="Roku/all#e5dcad2b1c055d4d86a9f7bba9438da7">Vevo &amp;apos;70s</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo80s.us@SD" site_id="Roku/all#fd8d765f98605129914b581147e7e8b2">Vevo &amp;apos;80s</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Vevo90s.us@SD" site_id="Roku/all#4c0772ef75e1565183843b37e91591f8">Vevo &amp;apos;90s</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoCountry.us@SD" site_id="Roku/all#1db9c603bb4e5d87b015f9963da1093e">Vevo Country</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoHipHop.us@SD" site_id="Roku/all#8dc44c8fdea45f039c68f75bda233850">Vevo Hip-Hop</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoLatino.us@SD" site_id="Roku/all#0d5283959d3a59bf87411e7077fd9e58">Vevo Latino</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoPop.us@SD" site_id="Roku/all#e50a8f06d3245c95a4e250dc5c33c2be">Vevo Pop</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoRB.us@SD" site_id="Roku/all#6be3083b8ec2508495684e5087f8f86a">Vevo R&amp;amp;amp;B</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoRetroRock.us@SD" site_id="PlutoTV/us#61d4b38226b8a50007fe03a6">Vevo Rock</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="VevoTrueSchoolHipHop.us@SD" site_id="PlutoTV/us#61d4c2817a823d00070ba53e">Vevo True School Hip-Hop</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WBALTV111.us@HD" site_id="21231">NBC (WBAL-DT1) Baltimore, MD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WBBJTV71.us@HD" site_id="abc-wbbj-jackson-tn-hd/5790">ABC (WBBJ) Jackson, TN HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WBFF451.us@HD" site_id="21233">FOX (WBFF-DT1) Baltimore, MD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WBRZTV21.us@HD" site_id="30436">ABC (WBRZ-DT1) Baton Rouge, LA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WBTV641.us@HD" site_id="Roku/all#bf7ee95e6a905222a1d24174120cc106">WBTV News 3</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WCAU621.us@HD" site_id="19613">NBC (WCAU-DT1) Philadelphia, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WCBITV41.us@HD" site_id="cbs-wcbi-colombus-ms-hd/18786">CBS (WCBI) Colombus, MS HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WCIUTV265.us@SD" site_id="70376">MeTV Plus (WCIU-DT5) Chicago, IL</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WCVBTV501.us@SD" site_id="19596">ABC (WCVB-DT1) Boston, MA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WDEFTV121.us@HD" site_id="cbs-wdef-chattanooga-tn-hd/9896">CBS (WDEF) Chattanooga, TN HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WDIODT101.us@HD" site_id="34583">ABC (WDIO-DT1) Duluth, MN</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WFLD501.us@HD" site_id="20361">FOX (WFLD-DT1) Chicago, IL</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WFTV91.us@HD" site_id="Roku/all#28cca0d6e56f5527bb6bc15c8a30d133">WFTV 9 Orlando</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WFTXTV361.us@HD" site_id="fox-wftx-cape-coral-fl-hd/4815">FOX (WFTX) Cape Coral, FL HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WFUTDT681.us@HD" site_id="35364">UniMas (WFUT-DT1) New York, NY</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WFXT251.us@HD" site_id="20362">FOX (WFXT-DT1) Boston MI</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WFXT662.us@SD" site_id="81295">Court TV Mystery (WFXT-DT2) Boston MI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGAL81.us@HD" site_id="nbc-wgal-lancaster-pa-hd/6701">NBC (WGAL) Lancaster, PA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WGBATV261.us@HD" site_id="nbc-wgba-green-bay-wi-hd/4899">NBC (WGBA) Green Bay, WI HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WGBODT661.us@HD" site_id="42635">Univision (WGBO-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WGNDT1.us@SD" site_id="20455">WGN9 (WGN-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WGTV83.us@SD" site_id="61567">PBS World(WUPA-DT3) Atlanta, GA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHBQTV131.us@HD" site_id="fox-whbq-memphis-tn-hd/7872">FOX (WHBQ) Memphis, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHECTV101.us@HD" site_id="nbc-whec-rochester-ny-hd/13762">NBC (WHEC) Rochester, NY HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHIOTV71.us@HD" site_id="cbs-whio-dayton-oh-hd/8791">CBS (WHIO) Dayton, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WHPDT1.us@SD" site_id="cbs-whp-harrisburg-pa-hd/6720">CBS (WHP) Harrisburg, PA HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WHPSCD152.us@SD" site_id="99581">WHPR TV Detroit Live (WHPS-CD2) Highland Park, MI</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WISNTV121.us@HD" site_id="32367">ABC (WISN-DT1) Milwaukee, WI</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WITI61.us@HD" site_id="fox-witi-milwaukee-wi-hd/6853">FOX (WITI) Milwaukee, WI HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WJACTV61.us@HD" site_id="34429">NBC (WJAC1) Altoona, PA</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJAR101.us@HD" site_id="nbc-wjar-cranston-ri-hd/6396">NBC (WJAR) Cranston, RI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WJAXTV471.us@HD" site_id="cbs-wjax-jacksonville-fl-hd/6358">CBS (WJAX) Jacksonville, FL HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WJBK21.us@HD" site_id="19600">FOX (WJBK-DT1) Detroit, MI</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WJLATV71.us@HD" site_id="19579">ABC (WJLA-DT1) Washington, DC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKEF451.us@SD" site_id="abc-wkef-dayton-oh-hd/8790">ABC (WKEF) Dayton, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKRCTV121.us@HD" site_id="cbs-wkrc-cincinnati-oh-hd/3675">CBS (WKRC) Cincinnati, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLIO81.us@HD" site_id="nbc-wlio-lima-oh-hd/7408">NBC (WLIO) Lima, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLOS131.us@HD" site_id="abc-wlos-asheville-nc-hd/5732">ABC (WLOS) Asheville, NC HD</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="WLTVDT231.us@HD" site_id="us#69025393/wltv-hdtv-univision-23">WLTV HDTV Univision 23</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WLUKTV141.us@HD" site_id="fox-wluk-green-bay-wi-hd/7494">FOX (WLUK) Green Bay, WI HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WMAQTV51.us@HD" site_id="Roku/all#9c0ccaa28c0b50f28ad27aaf2f224cf5">NBC 5 Chicago News</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WMARTV21.us@HD" site_id="21230">ABC (WMAR-DT1) Washington D.C.</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WMBCTV631.us@HD" site_id="35911">WMBC (WMBC-DT1) Newton, NJ</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMGTTV411.us@HD" site_id="nbc-wmgt-macon-ga-hd/6494">NBC (WMGT) Macon, GA HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WMURTV91.us@HD" site_id="abc-wmur-manchester-nh-hd/3655">ABC (WMUR) Manchester, NH HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WNBC471.us@HD" site_id="20459">NBC (WNBC-DT1) New York, NY</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WNJT521.us@HD" site_id="PBS/all#WNJT">WNJTDT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WNYT131.us@HD" site_id="nbc-wnyt-albany-ny-hd/3707">NBC (WNYT) Albany, NY HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WNYW51.us@HD" site_id="20360">FOX (WNYW-DT1) New York, NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WOAITV41.us@HD" site_id="nbc-woai-san-antonio-tx-hd/4871">NBC (WOAI) San Antonio, TX HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WPDETV151.us@HD" site_id="34557">ABC (WPDE-TV) Florence, SC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPEC121.us@HD" site_id="cbs-wpec-west-palm-beach-fl-hd/8256">CBS (WPEC) West Palm Beach, FL HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WPLG101.us@HD" site_id="20493">ABC (WPLG-DT1) Miami, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WPTVTV51.us@HD" site_id="nbc-wptv-west-palm-beach-fl-hd/8258">NBC (WPTV) West Palm Beach, FL HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WPXI111.us@HD" site_id="Roku/all#e38d66dbb4e05f9690f6c573417fc231">WPXI Pittsburgh</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WRCDT1.us@SD" site_id="19578">NBC (WRC-DT1) Washington D.C.</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WRDELD311.us@HD" site_id="nbc-wrde-salisbury-md/20002">NBC (WRDE) Salisbury, MD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WSBDT1.us@SD" site_id="Roku/all#69f8d2659a475342b88db93b63f755d0">WSB Atlanta</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSBTTV281.us@SD" site_id="cbs-wsbt-south-bend-in-hd/6488">CBS (WSBT) South Bend, IN HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WSOCTV91.us@HD" site_id="Roku/all#2b91bedf0bf25b7e83c05291634da59a">WSOC Charlotte</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WSYX61.us@HD" site_id="32635">ABC (WSYX-DT1) Columbus, OH</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTMJTV41.us@HD" site_id="nbc-wtmj-milwaukee-wi-hd/6849">NBC (WTMJ) Milwaukee, WI HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTNH81.us@HD" site_id="abc-wtnh-dt1-hd-new-haven-ct/2054">ABC (WTNH-DT1) HD New Haven, CT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTOVTV91.us@HD" site_id="nbc-wtov-steubenville-oh-hd/6850">NBC (WTOV) Steubenville, OH HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTTG51.us@HD" site_id="fox-wttg-district-of-columbia-hd/3740">FOX (WTTG) District of Columbia HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WTVJ61.us@HD" site_id="21219">NBC (WTVJ-DT1) Miami, FL</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVQDT361.us@HD" site_id="abc-wtvq-lexington-ky-hd/5750">ABC (WTVQ) Lexington, KY HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WTVRTV61.us@HD" site_id="36075">CBS (WTVR-DT) Richmond, KY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVT131.us@HD" site_id="fox-wtvt-tampa-bay-fl-hd/6736">FOX (WTVT) Tampa Bay, FL HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WTXFTV291.us@HD" site_id="19614">FOX (WTXF-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WTXLTV271.us@HD" site_id="43832">ABC (WTXL1) Tallahassee, FL</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WVIT301.us@HD" site_id="21217">NBC (WVIT-DT1) Hartford, CT</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WWAY31.us@HD" site_id="43730">ABC (WWAY) Wilmington, NC</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WWMT31.us@HD" site_id="34884">CBS (WWMT-DT1) Kalamazoo, MI</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WWORTV91.us@HD" site_id="26566">My Network TV (WWOR-DT1) NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXIITV201.us@HD" site_id="nbc-wxii-winston-salem-nc-hd/4721">NBC (WXII) Winston-Salem, NC HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WXTVDT681.us@HD" site_id="35361">Univision Nueva York (WXTV-DT1) NY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WXXVTV251.us@HD" site_id="fox-wxxv-gulfport-ms-hd/6498">FOX (WXXV) Gulfport, MS HD</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WantedDeadorAlive.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61ddcc6023daf618ed44c29f">Wanted: Dead or Alive</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WatchitKID.us@SD" site_id="Plex/au#697140a85d851f5e69414688-621672612c2627c068e73ad6">Watch it Kid</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WatchitScream.us@SD" site_id="Plex/au#697140a85d851f5e69414688-621671d05abdd3d5556a1baf">Watch it SCREAM</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WaypointTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5fd115b8b7ef8d002dcf1817">Waypoint TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WeTV.us@East" site_id="16409">We TV East</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WeatherNation.us@SD" site_id="Roku/all#a1e38b83ae2a56f09f4d2ee8ed206b35">Weathernation</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WeatherSpy.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f0ff266d71dcb00449ec030">WeatherSpy</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="WeedsNurseJackie.us@SD" site_id="150#99951535">Weeds &amp;amp; Nurse Jackie</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WesternTV.us@SD" site_id="PlutoTV/us#5e8df4bc16e34700077e77d3">Western TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WildNOut.us@SD" site_id="Roku/all#0ce1935dc620b3afcc5b0022656fbeb3">Wild &amp;apos;N Out</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Willow.us@SD" site_id="68605">Willow</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WillowSports.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-66fbf9cf128ab3f65b259bcb">Willow Sports</channel>
+  <channel site="distro.tv" lang="en" xmltv_id="WineWatchesWhiskey.us@HD" site_id="144408">Wine, Watches &amp;amp; Whiskey</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WipeoutXtra.us@SD" site_id="Plex/au#697140a85d851f5e69414688-6515fb621fc969615e69d16e">WipeoutXtra</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Wired2FishTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-608a2c722957c9002c6a617b">Wired2Fish</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WomensSportsNetwork.us@SD" site_id="Plex/au#697140a85d851f5e69414688-630fa9e577ec3866def38fa2">Women&amp;apos;s Sports Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WorldChannel.us@SD" site_id="pbs-world/10214">PBS World</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="WorldHarvestTV.us@SD" site_id="11514">World Harvest TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WorldPokerTour.us@US" site_id="PlutoTV/us#5616f9c0ada51f8004c4b091">World Poker Tour</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="WuTangCollection.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5eea605474085f0040ddc770">Wu Tang Collection</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XFCTV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-621670feab2095ca85353ad4">XFC TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITE90sThrowback.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6889430a3b7708975e7c07e3">XITE 90s Throwback</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITEClassicCountry.nl@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-688d399a8ceaa3681d9425d3">XITE Classic Country</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITEJustChill.nl@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6889467267ddc0ef2cdbf4ff">XITE Just Chill</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITENuevoLatino.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6889479e67ddc0ef2cdbf501">XITE Nuevo Latino</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITEReggaeVibes.nl@HD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68800f0c4033a6a442ad923d">XITE Reggae Vibes</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITERockxMetal.nl@US" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68800806996f1a2fb393a6e5">XITE Rock x Metal</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XITESiempreLatino.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-68800a594033a6a442ad9237">XITE Siempre Latino</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="XploreTV.us@SD" site_id="Roku/all#f230a0c3f7ba5804b42d88f5d3c20002">XPLORE</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="YahooFinance.us@SD" site_id="Plex/au#697140a85d851f5e69414688-5f170f01b898490041b49dd1">Yahoo Finance</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="YesNetwork.us@SD" site_id="30017">YES Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="YoMTV.us@SD" site_id="PlutoTV/us#5d14fc31252d35decbc4080b">Yo! MTV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="YuGiOh.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-6617f52f0049fcb8e2b0d5b8">Yu-Gi-Oh!</channel>
+  <channel site="watch.whaletvplus.com" lang="es" xmltv_id="YuGiOhenespanol.us@SD" site_id="756082902361969311">Yu-Gi-Oh! (ES)</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="beINSPORTSXTRA.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4">beIN SPORTS XTRA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="beINSPORTSXTRAenEspanol.us@SD" site_id="Plex/ca#647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553">beIN Sports Xtra en Español</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="beINSportsUSA.us@SD" site_id="76942">BeIn Sports USA</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="bonappetit.us@SD" site_id="Roku/all#bab0626ab5655e569790befb4522806a">Bon Appetit</channel>
+</channels>
