@@ -23,6 +23,8 @@ jobs:
         run: npm install
 
       - name: Grab guide
+        env:
+          NODE_OPTIONS: --max-old-space-size=12288
         run: |
           npm run grab --- \
             --channels=us.channels.xml \
@@ -32,6 +34,11 @@ jobs:
 
       - name: Commit guide
         run: |
+          if [ ! -s guide.xml ]; then
+            echo "guide.xml was not produced - the grab step failed. Nothing to commit."
+            exit 1
+          fi
+          ls -lh guide.xml guide.xml.gz || true
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add -f guide.xml guide.xml.gz
