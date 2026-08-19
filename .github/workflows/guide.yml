@@ -11,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
 
@@ -27,10 +27,7 @@ jobs:
           npm run grab --- \
             --channels=us.channels.xml \
             --output=guide.xml \
-            --gzip \
-            --days=3 \
-            --maxConnections=10 \
-            --timeout=15000
+            --gzip
         continue-on-error: true
 
       - name: Commit guide
