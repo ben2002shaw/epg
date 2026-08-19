@@ -2,8 +2,8 @@ name: Build US guide
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # runs daily at 08:00 UTC
-  workflow_dispatch:       # lets you run it manually from the Actions tab
+    - cron: "0 8 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -25,7 +25,7 @@ jobs:
       - name: Grab guide
         run: |
           npm run grab --- \
-            --sites=i.mjh.nz,tvtv.us,tvpassport.com,watchyour.tv,watch.whaletvplus.com \
+            --channels=us.channels.xml \
             --output=guide.xml \
             --gzip \
             --days=3 \
